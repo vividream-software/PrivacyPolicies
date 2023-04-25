@@ -1,0 +1,4 @@
+# Delete My Launch Striker Data
+Data collected can only be associated with any specific user through a specific device ID - all of the data collected is anonymized and not personally identifiable. While this data cannot be deleted (through limitations of Firebase), any individual user's device ID can be removed from their device, which essentially removes any connection between that user and the analytics data.
+
+To remove this connection (thus "deleting" your data), please contact aaron.trudeau@vividreamsoftware.com, and we will walk your through the necessary process.
